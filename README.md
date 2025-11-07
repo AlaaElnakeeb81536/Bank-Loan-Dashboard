@@ -10,15 +10,7 @@ It is divided into three dashboards: Summary, Overview, and Details, covering ke
 
 Provides high-level business metrics, including:
 
-Total loan applications
-
-Total funded amount
-
-Total amount received
-
-Average interest rate
-
-Average DTI
+Total loan applications, Total funded amount,Total amount received,Average interest rate ,Average DTI
 With Month-to-Date (MTD) and Month-over-Month (MoM) tracking.
 
 It also includes a loan-status grid summarizing performance across categories such as Fully Paid, Current, and Charged-off.
@@ -31,17 +23,8 @@ It also includes a loan-status grid summarizing performance across categories su
 
 Breaks down portfolio performance across business dimensions:
 
-Monthly trends by issue date
-
-Regional distribution by state
-
-Loan term distribution
-
-Employment length
-
-Loan purpose
-
-Home ownership
+Monthly trends by issue date, Regional distribution by state,Loan term distribution,Employment length,Loan purpose
+,Home ownership
 
 These visuals help identify demographic patterns, seasonality, and portfolio concentration.
 
@@ -53,15 +36,7 @@ These visuals help identify demographic patterns, seasonality, and portfolio con
 
 Provides detailed record-level loan information to support deep inspection of:
 
-Loan status
-
-Borrower demographics
-
-Income & DTI
-
-Grade / sub-grade
-
-Payment & verification details
+Loan status,Borrower demographics,Income & DTI,Grade / sub-grade,Payment & verification details
 
 Helps assess individual loan performance and risk.
 
